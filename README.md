@@ -1,3 +1,3 @@
 # Simple Calculator
 
-A calculater app in C++
+Calculater program in multiple languages
